@@ -21,15 +21,6 @@ index.css
   @tailwind components;
   @tailwind utilities;
 
-## Kütüphaneler
-
-- tailwind(stillendirme,kurulumu sitesinde)
-- axios
-- react-player
-- react-icons
-- millify(sayı formatlama)
-- moment(zaman formatlama)
-- react-router-dom
 
 ## Enviroment Variables (Ortam Değişkenleri)
 
